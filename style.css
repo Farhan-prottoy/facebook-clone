@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+div#left_side{
+    position: absolute;
+    left: 10%;
+    top: 242px;
+}
+h1{
+    color: blue;
+}
+div#box{
+    display: flex;
+    flex-direction:column ;
+    justify-content: center;
+    margin: 10px;
+    padding: 14rem;
+    padding-left: 59rem;
+}
+.input{
+    margin: 10px;
+}
