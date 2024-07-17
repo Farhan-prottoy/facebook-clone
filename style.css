@@ -42,3 +42,7 @@ div#box{
 .input{
     margin: 10px;
 }
+button{
+    float: left;
+    width: fit-content;
+}
